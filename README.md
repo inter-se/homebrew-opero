@@ -1,3 +1,5 @@
 # inter-se/opero tap
 
-This is an invitation only homebrew tap. Invities are provided docuentation in a seperate channel.
+This is an invitation only Homebrew tap.
+
+Documentaion is provided in a seperate channel.
