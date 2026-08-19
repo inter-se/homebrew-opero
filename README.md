@@ -1,4 +1,4 @@
-# inter-se/opero tap
+# inter-se/opero
 
 This is an invitation only Homebrew tap.
 
